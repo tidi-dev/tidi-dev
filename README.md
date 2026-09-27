@@ -14,13 +14,13 @@
 <sub><code>PLAYER PROFILE</code></sub>
 
 ```yaml
-player:   Dai Ho Trong          # Daniel · TiDi
-class:    Full-stack Developer
-guild:    hardware security for IoT (EU)
-base:     Ho Chi Minh City, VN  # UTC+7
-xp:       in production since 2020
-stance:   pragmatic > dogmatic
-passive:  can't leave a pain point alone
+player:  Dai Ho Trong  # Daniel · TiDi
+class:   Full-stack Developer
+guild:   hardware security for IoT (EU)
+base:    Ho Chi Minh City, VN  # UTC+7
+xp:      in production since 2020
+stance:  pragmatic > dogmatic
+passive: can't leave a pain point alone
 ```
 
 [![Email](https://img.shields.io/badge/Email-tidi.dev1321%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:tidi.dev1321@gmail.com)
