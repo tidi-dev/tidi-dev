@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="./ava.PNG" width="240" alt="Illustrated avatar of TiDi coding, gaming, playing football and drinking coffee" />
+      <img src="./ava.PNG" width="260" alt="Illustrated avatar of TiDi coding, gaming, playing football and drinking coffee" />
     </td>
     <td width="60%">
 
@@ -16,7 +16,7 @@
 ```yaml
 player:  Dai Ho Trong  # Daniel · TiDi
 class:   Full-stack Developer
-guild:   hardware security for IoT (EU)
+guild:   cyber security for IoT (EU)
 base:    Ho Chi Minh City, VN  # UTC+7
 xp:      in production since 2020
 stance:  pragmatic > dogmatic
@@ -28,9 +28,14 @@ passive: can't leave a pain point alone
 
 </td>
   </tr>
-</table>
+  <tr>
+    <td colspan="2">
 
 I'm **Dai** — Daniel in English, **TiDi** around here. Officially full-stack; in practice I end up on the backend most days: shaping APIs, modeling data, wiring services together and keeping the infrastructure underneath them honest. The path so far went from Laravel apps to AWS serverless to event-driven NestJS microservices. I once built a career-path platform on top of RPG quest mechanics, which probably explains the rest of this page.
+
+</td>
+  </tr>
+</table>
 
 ## 🧭 How I think
 
